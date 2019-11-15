@@ -4,7 +4,8 @@
 // @version      1.8.9
 // @description  Krunker Cheats WORKING!
 // @author       Unkn0wn Cheats
-// @match        *://krunker.io/*
+// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party|game)=.+)$/
+// @icon         https://krunkerio.org/wp-content/uploads/2018/12/krunker-io-aimbots-hacks.jpg
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
