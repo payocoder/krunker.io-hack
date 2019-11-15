@@ -410,4 +410,4 @@
     conceal_function(original_Function, hook_Function);
     Function = hook_Function;
 })()
-alert("[Injected] Shoutout to StormwolfPlayz, HaiL_Frosted, Lukie, and Mereltju! Congragulations! Thank you! Latest Version Created by Unkn0wn Cheats. Fixed Aimbot/Esp/All features! Working 2019 November! Want a free shoutout? Email me when the hacks are broken and i will shoutout you plus give u a free copy of script with no link shorteners! My email: yabarg@yahoo.com")
+alert("[Injected] Shoutout to StormwolfPlayz, HaiL_Frosted, Lukie, and Mereltju! Congragulations! Thank you! Latest Version Created by Unkn0wn Cheats. Fixed Aimbot/Esp/All features! Working 2019 November! Want a free shoutout? Email me when the hacks are broken and i will shoutout you plus give u a free copy of script with no link shorteners!! My email: yabarg@yahoo.com")
