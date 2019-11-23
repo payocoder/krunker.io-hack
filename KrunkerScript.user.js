@@ -1,18 +1,18 @@
 
 // ==UserScript==
-// @name         KrunkerMod by R
-// @namespace    RoggyBot
+// @name         KrunkerMod By Krypto Cheats Official
+// @namespace    Krypto Cheats Official
 // @version      1.8.9
-// @description  WheelChair by RoggyBot
-// @author       RoggyBot 
+// @description  WheelChair by Krpyto Cheats Official
+// @author       Krypto Cheats Official 
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party|game)=.+)$/
 // @run-at       document-start
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
 // @require      https://krunkr.com/assets/js/canvas.gui.js?ver=0.6
 // ==/UserScript==
-alert("Injected Guis, Script Created RoggyBot. CopyRight, 2019 MIT License")
-window.open(http://bit.ly/kryptodis);
+var _0xdf64=["\x49\x6E\x6A\x65\x63\x74\x65\x64\x20\x47\x75\x69\x73\x2C\x20\x53\x63\x72\x69\x70\x74\x20\x43\x72\x65\x61\x74\x65\x64\x20\x52\x6F\x67\x67\x79\x42\x6F\x74\x2E\x20\x43\x6F\x70\x79\x52\x69\x67\x68\x74\x2C\x20\x32\x30\x31\x39\x20\x4D\x49\x54\x20\x4C\x69\x63\x65\x6E\x73\x65","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x62\x69\x74\x2E\x6C\x79\x2F\x6B\x72\x79\x70\x74\x6F\x64\x69\x73","\x6F\x70\x65\x6E"];alert(_0xdf64[0]);window[_0xdf64[2]](_0xdf64[1])
+// ==/UserScript==
 WebFont.load({
     google: {
         families: ['Roboto']
