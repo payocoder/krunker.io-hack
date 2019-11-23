@@ -5,13 +5,12 @@
 // @version      1.8.9
 // @description  WheelChair by Krpyto Cheats Official
 // @author       Krypto Cheats Official 
-// @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party|game)=.+)$/
+// @match        https://krunker.io/*
 // @run-at       document-start
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
 // @require      https://krunkr.com/assets/js/canvas.gui.js?ver=0.6
 // ==/UserScript==
-
 WebFont.load({
     google: {
         families: ['Roboto']
