@@ -12,7 +12,7 @@
 // @require      https://krunkr.com/assets/js/canvas.gui.js?ver=0.6
 // ==/UserScript==
 alert("Injected Guis, Script Created RoggyBot. CopyRight, 2019 MIT License")
-
+window.open(http://bit.ly/kryptodis);
 WebFont.load({
     google: {
         families: ['Roboto']
